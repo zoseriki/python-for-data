@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ec815a0-d76a-482b-a7c8-5f053ce594ac" name="Changes" comment="This is my first commit">
-      <change afterPath="$PROJECT_DIR$/sources.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/textfilePractice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lending-Company-Total-Price-100.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataCleaningExercise2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datacleaningPractice.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataframesPractice.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataframesPractice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/writingTextFilePractice.py" beforeDir="false" afterPath="$PROJECT_DIR$/writingTextFilePractice.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +50,8 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.arraypractice.executor": "Run",
+    "Python.dataCleaningExercise2.executor": "Run",
+    "Python.datacleaningPractice.executor": "Run",
     "Python.dataframesPractice.executor": "Run",
     "Python.exercise1.executor": "Run",
     "Python.exercise2.executor": "Run",
@@ -58,6 +61,7 @@
     "Python.pandadindexpractice.executor": "Run",
     "Python.pandasPractice.executor": "Run",
     "Python.textfilePractice.executor": "Run",
+    "Python.writingTextFilePractice.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -95,7 +99,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1758899037257</updated>
-      <workItem from="1758899038251" duration="40573000" />
+      <workItem from="1758899038251" duration="42719000" />
     </task>
     <task id="LOCAL-00001" summary="This is my first commit">
       <option name="closed" value="true" />
@@ -161,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759419604739</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="This is my first commit">
+      <option name="closed" value="true" />
+      <created>1759539456354</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1759539456354</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,13 +185,16 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject11$exercise1.coverage" NAME="exercise1 Coverage Results" MODIFIED="1759280621367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonProject11$arraypractice.coverage" NAME="arraypractice Coverage Results" MODIFIED="1759021446562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject11$pandasPractice.coverage" NAME="pandasPractice Coverage Results" MODIFIED="1759279646232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonProject11$textfilePractice.coverage" NAME="textfilePractice Coverage Results" MODIFIED="1759521753933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonProject11$pandadindexpractice.coverage" NAME="pandadindexpractice Coverage Results" MODIFIED="1759370236829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject11$firstcommit.coverage" NAME="firstcommit Coverage Results" MODIFIED="1758899082965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject11$exercise2.coverage" NAME="exercise2 Coverage Results" MODIFIED="1759284885070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject11$dataCleaningExercise2.coverage" NAME="dataCleaningExercise2 Coverage Results" MODIFIED="1759553636894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject11$exercise3.coverage" NAME="exercise3 Coverage Results" MODIFIED="1759416449752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject11$datacleaningPractice.coverage" NAME="datacleaningPractice Coverage Results" MODIFIED="1759551985249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject11$writingTextFilePractice.coverage" NAME="writingTextFilePractice Coverage Results" MODIFIED="1759539869012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject11$arraypractice.coverage" NAME="arraypractice Coverage Results" MODIFIED="1759021446562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject11$textfilePractice.coverage" NAME="textfilePractice Coverage Results" MODIFIED="1759539287485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject11$pandadindexpractice.coverage" NAME="pandadindexpractice Coverage Results" MODIFIED="1759370236829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject11$numpy_Practice.coverage" NAME="numpy_Practice Coverage Results" MODIFIED="1759265644899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject11$dataframesPractice.coverage" NAME="dataframesPractice Coverage Results" MODIFIED="1759421458708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
