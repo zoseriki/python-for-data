@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ec815a0-d76a-482b-a7c8-5f053ce594ac" name="Changes" comment="This is my first commit">
-      <change afterPath="$PROJECT_DIR$/Lending-Company-Total-Price-100.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataCleaningExercise2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datacleaningPractice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lending-company-100.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lending-company-single-column-data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exerciseforcsv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/importingJsonPractice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practiceusingsep.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/writingTextFilePractice.py" beforeDir="false" afterPath="$PROJECT_DIR$/writingTextFilePractice.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,10 +57,13 @@
     "Python.exercise1.executor": "Run",
     "Python.exercise2.executor": "Run",
     "Python.exercise3.executor": "Run",
+    "Python.exerciseforcsv.executor": "Run",
     "Python.firstcommit.executor": "Run",
+    "Python.importingJsonPractice.executor": "Run",
     "Python.numpy_Practice.executor": "Run",
     "Python.pandadindexpractice.executor": "Run",
     "Python.pandasPractice.executor": "Run",
+    "Python.practiceusingsep.executor": "Run",
     "Python.textfilePractice.executor": "Run",
     "Python.writingTextFilePractice.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -99,7 +103,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1758899037257</updated>
-      <workItem from="1758899038251" duration="42719000" />
+      <workItem from="1758899038251" duration="44723000" />
     </task>
     <task id="LOCAL-00001" summary="This is my first commit">
       <option name="closed" value="true" />
@@ -173,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759539456354</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="This is my first commit">
+      <option name="closed" value="true" />
+      <created>1759553653901</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1759553653901</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,11 +202,14 @@
     <SUITE FILE_PATH="coverage/PythonProject11$exercise2.coverage" NAME="exercise2 Coverage Results" MODIFIED="1759284885070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject11$dataCleaningExercise2.coverage" NAME="dataCleaningExercise2 Coverage Results" MODIFIED="1759553636894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject11$exercise3.coverage" NAME="exercise3 Coverage Results" MODIFIED="1759416449752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject11$practiceusingsep.coverage" NAME="practiceusingsep Coverage Results" MODIFIED="1759621641787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject11$exerciseforcsv.coverage" NAME="exerciseforcsv Coverage Results" MODIFIED="1759621391327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject11$datacleaningPractice.coverage" NAME="datacleaningPractice Coverage Results" MODIFIED="1759551985249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject11$writingTextFilePractice.coverage" NAME="writingTextFilePractice Coverage Results" MODIFIED="1759539869012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject11$arraypractice.coverage" NAME="arraypractice Coverage Results" MODIFIED="1759021446562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject11$textfilePractice.coverage" NAME="textfilePractice Coverage Results" MODIFIED="1759539287485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject11$pandadindexpractice.coverage" NAME="pandadindexpractice Coverage Results" MODIFIED="1759370236829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonProject11$importingJsonPractice.coverage" NAME="importingJsonPractice Coverage Results" MODIFIED="1759621164796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject11$numpy_Practice.coverage" NAME="numpy_Practice Coverage Results" MODIFIED="1759265644899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonProject11$dataframesPractice.coverage" NAME="dataframesPractice Coverage Results" MODIFIED="1759421458708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
